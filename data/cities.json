@@ -35,6 +35,42 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "id": "71b6",
+      "cityName": "Kolli Hills",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-06T12:30:36.332Z",
+      "notes": "",
+      "position": {
+        "lat": "11.232157896076137",
+        "lng": "78.39843750000001"
+      }
+    },
+    {
+      "id": "14c5",
+      "cityName": "Mount Aspiring National Park",
+      "country": "New Zealand",
+      "emoji": "🇳🇿",
+      "date": "2025-07-06T12:47:00.950Z",
+      "notes": "",
+      "position": {
+        "lat": "-44.01637050595273",
+        "lng": "169.45312500000003"
+      }
+    },
+    {
+      "id": "1b22",
+      "cityName": "Little Sandy Desert",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2025-07-06T12:47:18.896Z",
+      "notes": "",
+      "position": {
+        "lat": "-25.1984529571649",
+        "lng": "121.68457031250001"
+      }
     }
   ]
 }
